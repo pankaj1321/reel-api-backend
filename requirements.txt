@@ -1,6 +1,2 @@
-flask
-flask_cors
-instaloader
-requests
-gunicorn
+
 
