@@ -1,0 +1,7 @@
+flask
+flask_cors
+instaloader
+requests
+gunicorn
+
+web: gunicorn reel-api:app
