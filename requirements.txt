@@ -4,4 +4,3 @@ instaloader
 requests
 gunicorn
 
-web: gunicorn reel-api:app
